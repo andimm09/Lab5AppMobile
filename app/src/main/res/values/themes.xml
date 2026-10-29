@@ -1,0 +1,3 @@
+﻿<resources>
+    <style name="Theme.Lab5AppMobile" parent="android:Theme.Material.Light.NoActionBar" />
+</resources>
